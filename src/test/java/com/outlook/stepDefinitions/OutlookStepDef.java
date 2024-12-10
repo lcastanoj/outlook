@@ -22,11 +22,6 @@ public class OutlookStepDef {
         );
     }
 
-    @When("they enter their email {string} and password {string}")
-    public void theyEnterTheirEmailAndPassword(String email, String password) {
-        theActorInTheSpotlight().attemptsTo(LoginTask.withCredentials(email, password));
-    }
-
     @And("the user gets the two step verification")
     public void theUserGetsTheTwoStepVerification() {
 
@@ -42,6 +37,11 @@ public class OutlookStepDef {
                         otpLogger
                 )
         );
+    }
+
+    @When("they enter their email {string} and password {string}")
+    public void theyEnterTheirEmailAndPassword(String email, String password) {
+        theActorInTheSpotlight().attemptsTo(LoginTask.withCredentials(email, password));
     }
 
     @Then("they should see their inbox")

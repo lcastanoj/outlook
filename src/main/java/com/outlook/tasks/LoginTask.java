@@ -4,9 +4,13 @@ import net.serenitybdd.screenplay.Actor;
 import net.serenitybdd.screenplay.Task;
 import net.serenitybdd.screenplay.actions.Click;
 import net.serenitybdd.screenplay.actions.Enter;
+import net.serenitybdd.screenplay.waits.WaitUntil;
+import org.openqa.selenium.Keys;
 
 import static com.outlook.userInterface.OutlookLoginPage.*;
 import static net.serenitybdd.screenplay.Tasks.instrumented;
+import static net.serenitybdd.screenplay.matchers.WebElementStateMatchers.isPresent;
+import static org.openqa.selenium.Keys.ENTER;
 
 public class LoginTask implements Task {
     private final String email;
@@ -21,9 +25,20 @@ public class LoginTask implements Task {
     public <T extends Actor> void performAs(T actor) {
         actor.attemptsTo(
                 Enter.theValue(email).into(EMAIL_TXT),
-                Click.on(NEXT_BUTTON),
+                Click.on(NEXT_BUTTON));
+        actor.attemptsTo(
+                WaitUntil.the(PASSWORD_TXT, isPresent()).forNoMoreThan(60).seconds(),
                 Enter.theValue(password).into(PASSWORD_TXT),
-                Click.on(SIGN_IN_BUTTON),
+                Click.on(SUBMIT_BUTTON)
+        );
+
+        String otp = actor.recall("otp");
+        actor.attemptsTo(
+                WaitUntil.the(OTP_TXT, isPresent()).forNoMoreThan(60).seconds(),
+                Enter.theValue(otp).into(OTP_TXT).thenHit(ENTER)
+        );
+
+        actor.attemptsTo(
                 Click.on(ACCEPT_BUTTON)
         );
     }

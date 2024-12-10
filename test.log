@@ -1,0 +1,330 @@
+1456 [Test worker] INFO   -- [96m
+
+-------------------------------------------------------------------------------------
+     _______. _______ .______       _______ .__   __.  __  .___________.____    ____ 
+    /       ||   ____||   _  \     |   ____||  \ |  | |  | |           |\   \  /   / 
+   |   (----`|  |__   |  |_)  |    |  |__   |   \|  | |  | `---|  |----` \   \/   /  
+    \   \    |   __|  |      /     |   __|  |  . `  | |  |     |  |       \_    _/   
+.----)   |   |  |____ |  |\  \----.|  |____ |  |\   | |  |     |  |         |  |     
+|_______/    |_______|| _| `._____||_______||__| \__| |__|     |__|         |__|    
+                                                                                     
+ News and tutorials at https://serenity-bdd.info                                     
+ Documentation at https://serenity-bdd.github.io                                     
+ Test Automation Training and Coaching: https://www.serenity-dojo.com                
+ Commercial Support: https://www.serenity-dojo.com/serenity-bdd-enterprise-support   
+ Join the Serenity Community on Gitter: https://gitter.im/serenity-bdd/serenity-core 
+-------------------------------------------------------------------------------------
+[0m
+1465 [Test worker] INFO   -- Test Suite Started: Outlook Login
+1542 [Test worker] INFO   -- Test Suite Started: Outlook Login
+1618 [Test worker] INFO   -- 
+  _____   ___   ___   _____     ___   _____     _     ___   _____   ___   ___  
+ |_   _| | __| / __| |_   _|   / __| |_   _|   /_\   | _ \ |_   _| | __| |   \ 
+   | |   | _|  \__ \   | |     \__ \   | |    / _ \  |   /   | |   | _|  | |) |
+   |_|   |___| |___/   |_|     |___/   |_|   /_/ \_\ |_|_\   |_|   |___| |___/ 
+
+User can successfully log in to Outlook(outlook-login;user-can-successfully-log-in-to-outlook)
+--------------------------------------------------------------------------------
+1955 [Test worker] INFO  n.s.c.w.d.ChromeDriverProvider -- Starting Chrome driver instance with capabilities:
+1957 [Test worker] INFO  n.s.c.w.d.ChromeDriverProvider -- Capabilities {acceptInsecureCerts: false, browserName: chrome, goog:chromeOptions: {args: [remote-allow-origins=*], extensions: []}}
+6770 [Test worker] INFO  com.outlook.utils.LoggerConsola -- OTP generado: 285699. Tiempo restante: 23 segundos
+11797 [Test worker] INFO   -- [92m
+  _____   ___   ___   _____     ___     _     ___   ___   ___   ___  
+ |_   _| | __| / __| |_   _|   | _ \   /_\   / __| / __| | __| |   \ 
+   | |   | _|  \__ \   | |     |  _/  / _ \  \__ \ \__ \ | _|  | |) |
+   |_|   |___| |___/   |_|     |_|   /_/ \_\ |___/ |___/ |___| |___/ 
+
+User can successfully log in to Outlook
+----------------------------------------------------------------------[0m
+1407 [Test worker] INFO   -- [96m
+
+-------------------------------------------------------------------------------------
+     _______. _______ .______       _______ .__   __.  __  .___________.____    ____ 
+    /       ||   ____||   _  \     |   ____||  \ |  | |  | |           |\   \  /   / 
+   |   (----`|  |__   |  |_)  |    |  |__   |   \|  | |  | `---|  |----` \   \/   /  
+    \   \    |   __|  |      /     |   __|  |  . `  | |  |     |  |       \_    _/   
+.----)   |   |  |____ |  |\  \----.|  |____ |  |\   | |  |     |  |         |  |     
+|_______/    |_______|| _| `._____||_______||__| \__| |__|     |__|         |__|    
+                                                                                     
+ News and tutorials at https://serenity-bdd.info                                     
+ Documentation at https://serenity-bdd.github.io                                     
+ Test Automation Training and Coaching: https://www.serenity-dojo.com                
+ Commercial Support: https://www.serenity-dojo.com/serenity-bdd-enterprise-support   
+ Join the Serenity Community on Gitter: https://gitter.im/serenity-bdd/serenity-core 
+-------------------------------------------------------------------------------------
+[0m
+1414 [Test worker] INFO   -- Test Suite Started: Outlook Login
+1488 [Test worker] INFO   -- Test Suite Started: Outlook Login
+1561 [Test worker] INFO   -- 
+  _____   ___   ___   _____     ___   _____     _     ___   _____   ___   ___  
+ |_   _| | __| / __| |_   _|   / __| |_   _|   /_\   | _ \ |_   _| | __| |   \ 
+   | |   | _|  \__ \   | |     \__ \   | |    / _ \  |   /   | |   | _|  | |) |
+   |_|   |___| |___/   |_|     |___/   |_|   /_/ \_\ |_|_\   |_|   |___| |___/ 
+
+User can successfully log in to Outlook(outlook-login;user-can-successfully-log-in-to-outlook)
+--------------------------------------------------------------------------------
+1880 [Test worker] INFO  n.s.c.w.d.ChromeDriverProvider -- Starting Chrome driver instance with capabilities:
+1882 [Test worker] INFO  n.s.c.w.d.ChromeDriverProvider -- Capabilities {acceptInsecureCerts: false, browserName: chrome, goog:chromeOptions: {args: [remote-allow-origins=*], extensions: []}}
+5740 [Test worker] INFO  com.outlook.utils.LoggerConsola -- OTP generado: 901214. Tiempo restante: 22 segundos
+10034 [Test worker] INFO   -- [92m
+  _____   ___   ___   _____     ___     _     ___   ___   ___   ___  
+ |_   _| | __| / __| |_   _|   | _ \   /_\   / __| / __| | __| |   \ 
+   | |   | _|  \__ \   | |     |  _/  / _ \  \__ \ \__ \ | _|  | |) |
+   |_|   |___| |___/   |_|     |_|   /_/ \_\ |___/ |___/ |___| |___/ 
+
+User can successfully log in to Outlook
+----------------------------------------------------------------------[0m
+1364 [Test worker] INFO   -- [96m
+
+-------------------------------------------------------------------------------------
+     _______. _______ .______       _______ .__   __.  __  .___________.____    ____ 
+    /       ||   ____||   _  \     |   ____||  \ |  | |  | |           |\   \  /   / 
+   |   (----`|  |__   |  |_)  |    |  |__   |   \|  | |  | `---|  |----` \   \/   /  
+    \   \    |   __|  |      /     |   __|  |  . `  | |  |     |  |       \_    _/   
+.----)   |   |  |____ |  |\  \----.|  |____ |  |\   | |  |     |  |         |  |     
+|_______/    |_______|| _| `._____||_______||__| \__| |__|     |__|         |__|    
+                                                                                     
+ News and tutorials at https://serenity-bdd.info                                     
+ Documentation at https://serenity-bdd.github.io                                     
+ Test Automation Training and Coaching: https://www.serenity-dojo.com                
+ Commercial Support: https://www.serenity-dojo.com/serenity-bdd-enterprise-support   
+ Join the Serenity Community on Gitter: https://gitter.im/serenity-bdd/serenity-core 
+-------------------------------------------------------------------------------------
+[0m
+1373 [Test worker] INFO   -- Test Suite Started: Outlook Login
+1446 [Test worker] INFO   -- Test Suite Started: Outlook Login
+1525 [Test worker] INFO   -- 
+  _____   ___   ___   _____     ___   _____     _     ___   _____   ___   ___  
+ |_   _| | __| / __| |_   _|   / __| |_   _|   /_\   | _ \ |_   _| | __| |   \ 
+   | |   | _|  \__ \   | |     \__ \   | |    / _ \  |   /   | |   | _|  | |) |
+   |_|   |___| |___/   |_|     |___/   |_|   /_/ \_\ |_|_\   |_|   |___| |___/ 
+
+User can successfully log in to Outlook(outlook-login;user-can-successfully-log-in-to-outlook)
+--------------------------------------------------------------------------------
+1876 [Test worker] INFO  n.s.c.w.d.ChromeDriverProvider -- Starting Chrome driver instance with capabilities:
+1877 [Test worker] INFO  n.s.c.w.d.ChromeDriverProvider -- Capabilities {acceptInsecureCerts: false, browserName: chrome, goog:chromeOptions: {args: [remote-allow-origins=*], extensions: []}}
+6671 [Test worker] INFO  com.outlook.utils.LoggerConsola -- OTP generado: 405030. Tiempo restante: 12 segundos
+10862 [Test worker] INFO   -- [92m
+  _____   ___   ___   _____     ___     _     ___   ___   ___   ___  
+ |_   _| | __| / __| |_   _|   | _ \   /_\   / __| / __| | __| |   \ 
+   | |   | _|  \__ \   | |     |  _/  / _ \  \__ \ \__ \ | _|  | |) |
+   |_|   |___| |___/   |_|     |_|   /_/ \_\ |___/ |___/ |___| |___/ 
+
+User can successfully log in to Outlook
+----------------------------------------------------------------------[0m
+1673 [Test worker] INFO   -- [96m
+
+-------------------------------------------------------------------------------------
+     _______. _______ .______       _______ .__   __.  __  .___________.____    ____ 
+    /       ||   ____||   _  \     |   ____||  \ |  | |  | |           |\   \  /   / 
+   |   (----`|  |__   |  |_)  |    |  |__   |   \|  | |  | `---|  |----` \   \/   /  
+    \   \    |   __|  |      /     |   __|  |  . `  | |  |     |  |       \_    _/   
+.----)   |   |  |____ |  |\  \----.|  |____ |  |\   | |  |     |  |         |  |     
+|_______/    |_______|| _| `._____||_______||__| \__| |__|     |__|         |__|    
+                                                                                     
+ News and tutorials at https://serenity-bdd.info                                     
+ Documentation at https://serenity-bdd.github.io                                     
+ Test Automation Training and Coaching: https://www.serenity-dojo.com                
+ Commercial Support: https://www.serenity-dojo.com/serenity-bdd-enterprise-support   
+ Join the Serenity Community on Gitter: https://gitter.im/serenity-bdd/serenity-core 
+-------------------------------------------------------------------------------------
+[0m
+1680 [Test worker] INFO   -- Test Suite Started: Outlook Login
+1749 [Test worker] INFO   -- Test Suite Started: Outlook Login
+1834 [Test worker] INFO   -- 
+  _____   ___   ___   _____     ___   _____     _     ___   _____   ___   ___  
+ |_   _| | __| / __| |_   _|   / __| |_   _|   /_\   | _ \ |_   _| | __| |   \ 
+   | |   | _|  \__ \   | |     \__ \   | |    / _ \  |   /   | |   | _|  | |) |
+   |_|   |___| |___/   |_|     |___/   |_|   /_/ \_\ |_|_\   |_|   |___| |___/ 
+
+User can successfully log in to Outlook(outlook-login;user-can-successfully-log-in-to-outlook)
+--------------------------------------------------------------------------------
+2192 [Test worker] INFO  n.s.c.w.d.ChromeDriverProvider -- Starting Chrome driver instance with capabilities:
+2196 [Test worker] INFO  n.s.c.w.d.ChromeDriverProvider -- Capabilities {acceptInsecureCerts: false, browserName: chrome, goog:chromeOptions: {args: [remote-allow-origins=*], extensions: []}}
+7275 [Test worker] INFO  com.outlook.utils.LoggerConsola -- OTP generado: 174122. Tiempo restante: 30 segundos
+1665 [Test worker] INFO   -- [96m
+
+-------------------------------------------------------------------------------------
+     _______. _______ .______       _______ .__   __.  __  .___________.____    ____ 
+    /       ||   ____||   _  \     |   ____||  \ |  | |  | |           |\   \  /   / 
+   |   (----`|  |__   |  |_)  |    |  |__   |   \|  | |  | `---|  |----` \   \/   /  
+    \   \    |   __|  |      /     |   __|  |  . `  | |  |     |  |       \_    _/   
+.----)   |   |  |____ |  |\  \----.|  |____ |  |\   | |  |     |  |         |  |     
+|_______/    |_______|| _| `._____||_______||__| \__| |__|     |__|         |__|    
+                                                                                     
+ News and tutorials at https://serenity-bdd.info                                     
+ Documentation at https://serenity-bdd.github.io                                     
+ Test Automation Training and Coaching: https://www.serenity-dojo.com                
+ Commercial Support: https://www.serenity-dojo.com/serenity-bdd-enterprise-support   
+ Join the Serenity Community on Gitter: https://gitter.im/serenity-bdd/serenity-core 
+-------------------------------------------------------------------------------------
+[0m
+1673 [Test worker] INFO   -- Test Suite Started: Outlook Login
+1754 [Test worker] INFO   -- Test Suite Started: Outlook Login
+1838 [Test worker] INFO   -- 
+  _____   ___   ___   _____     ___   _____     _     ___   _____   ___   ___  
+ |_   _| | __| / __| |_   _|   / __| |_   _|   /_\   | _ \ |_   _| | __| |   \ 
+   | |   | _|  \__ \   | |     \__ \   | |    / _ \  |   /   | |   | _|  | |) |
+   |_|   |___| |___/   |_|     |___/   |_|   /_/ \_\ |_|_\   |_|   |___| |___/ 
+
+User can successfully log in to Outlook(outlook-login;user-can-successfully-log-in-to-outlook)
+--------------------------------------------------------------------------------
+2237 [Test worker] INFO  n.s.c.w.d.ChromeDriverProvider -- Starting Chrome driver instance with capabilities:
+2240 [Test worker] INFO  n.s.c.w.d.ChromeDriverProvider -- Capabilities {acceptInsecureCerts: false, browserName: chrome, goog:chromeOptions: {args: [remote-allow-origins=*], extensions: []}}
+7476 [Test worker] INFO  com.outlook.utils.LoggerConsola -- OTP generado: 386619. Tiempo restante: 13 segundos
+72002 [Test worker] ERROR  -- [91m
+  _____   ___   ___   _____     ___   ___   ___    ___    ___ 
+ |_   _| | __| / __| |_   _|   | __| | _ \ | _ \  / _ \  | _ \
+   | |   | _|  \__ \   | |     | _|  |   / |   / | (_) | |   /
+   |_|   |___| |___/   |_|     |___| |_|_\ |_|_\  \___/  |_|_\
+
+User can successfully log in to Outlook
+---------------------------------------------------------------[0m
+72005 [Test worker] ERROR  -- [91m    Test failed at step: Test login task[0m
+72005 [Test worker] ERROR  -- [91m    invalid selector[0m
+1351 [Test worker] INFO   -- [96m
+
+-------------------------------------------------------------------------------------
+     _______. _______ .______       _______ .__   __.  __  .___________.____    ____ 
+    /       ||   ____||   _  \     |   ____||  \ |  | |  | |           |\   \  /   / 
+   |   (----`|  |__   |  |_)  |    |  |__   |   \|  | |  | `---|  |----` \   \/   /  
+    \   \    |   __|  |      /     |   __|  |  . `  | |  |     |  |       \_    _/   
+.----)   |   |  |____ |  |\  \----.|  |____ |  |\   | |  |     |  |         |  |     
+|_______/    |_______|| _| `._____||_______||__| \__| |__|     |__|         |__|    
+                                                                                     
+ News and tutorials at https://serenity-bdd.info                                     
+ Documentation at https://serenity-bdd.github.io                                     
+ Test Automation Training and Coaching: https://www.serenity-dojo.com                
+ Commercial Support: https://www.serenity-dojo.com/serenity-bdd-enterprise-support   
+ Join the Serenity Community on Gitter: https://gitter.im/serenity-bdd/serenity-core 
+-------------------------------------------------------------------------------------
+[0m
+1357 [Test worker] INFO   -- Test Suite Started: Outlook Login
+1428 [Test worker] INFO   -- Test Suite Started: Outlook Login
+1500 [Test worker] INFO   -- 
+  _____   ___   ___   _____     ___   _____     _     ___   _____   ___   ___  
+ |_   _| | __| / __| |_   _|   / __| |_   _|   /_\   | _ \ |_   _| | __| |   \ 
+   | |   | _|  \__ \   | |     \__ \   | |    / _ \  |   /   | |   | _|  | |) |
+   |_|   |___| |___/   |_|     |___/   |_|   /_/ \_\ |_|_\   |_|   |___| |___/ 
+
+User can successfully log in to Outlook(outlook-login;user-can-successfully-log-in-to-outlook)
+--------------------------------------------------------------------------------
+1811 [Test worker] INFO  n.s.c.w.d.ChromeDriverProvider -- Starting Chrome driver instance with capabilities:
+1813 [Test worker] INFO  n.s.c.w.d.ChromeDriverProvider -- Capabilities {acceptInsecureCerts: false, browserName: chrome, goog:chromeOptions: {args: [remote-allow-origins=*], extensions: []}}
+5563 [Test worker] INFO  com.outlook.utils.LoggerConsola -- OTP generado: 704761. Tiempo restante: 25 segundos
+17156 [Test worker] ERROR  -- [91m
+  _____   ___   ___   _____     ___     _     ___   _      ___   ___  
+ |_   _| | __| / __| |_   _|   | __|   /_\   |_ _| | |    | __| |   \ 
+   | |   | _|  \__ \   | |     | _|   / _ \   | |  | |__  | _|  | |) |
+   |_|   |___| |___/   |_|     |_|   /_/ \_\ |___| |____| |___| |___/ 
+
+User can successfully log in to Outlook
+-----------------------------------------------------------------------[0m
+17158 [Test worker] ERROR  -- [91m    Test failed at step: Test login task[0m
+17158 [Test worker] ERROR  -- [91m    Expected condition failed: waiting for By.xpath: //button[@type='submit'] to be present (tried for 5 second(s) with 100 milliseconds interval)Build info: version: '4.26.0', revision: '8ccf0219d7'System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.5'Driver info: driver.version: unknown[0m
+1384 [Test worker] INFO   -- [96m
+
+-------------------------------------------------------------------------------------
+     _______. _______ .______       _______ .__   __.  __  .___________.____    ____ 
+    /       ||   ____||   _  \     |   ____||  \ |  | |  | |           |\   \  /   / 
+   |   (----`|  |__   |  |_)  |    |  |__   |   \|  | |  | `---|  |----` \   \/   /  
+    \   \    |   __|  |      /     |   __|  |  . `  | |  |     |  |       \_    _/   
+.----)   |   |  |____ |  |\  \----.|  |____ |  |\   | |  |     |  |         |  |     
+|_______/    |_______|| _| `._____||_______||__| \__| |__|     |__|         |__|    
+                                                                                     
+ News and tutorials at https://serenity-bdd.info                                     
+ Documentation at https://serenity-bdd.github.io                                     
+ Test Automation Training and Coaching: https://www.serenity-dojo.com                
+ Commercial Support: https://www.serenity-dojo.com/serenity-bdd-enterprise-support   
+ Join the Serenity Community on Gitter: https://gitter.im/serenity-bdd/serenity-core 
+-------------------------------------------------------------------------------------
+[0m
+1390 [Test worker] INFO   -- Test Suite Started: Outlook Login
+1458 [Test worker] INFO   -- Test Suite Started: Outlook Login
+1526 [Test worker] INFO   -- 
+  _____   ___   ___   _____     ___   _____     _     ___   _____   ___   ___  
+ |_   _| | __| / __| |_   _|   / __| |_   _|   /_\   | _ \ |_   _| | __| |   \ 
+   | |   | _|  \__ \   | |     \__ \   | |    / _ \  |   /   | |   | _|  | |) |
+   |_|   |___| |___/   |_|     |___/   |_|   /_/ \_\ |_|_\   |_|   |___| |___/ 
+
+User can successfully log in to Outlook(outlook-login;user-can-successfully-log-in-to-outlook)
+--------------------------------------------------------------------------------
+1842 [Test worker] INFO  n.s.c.w.d.ChromeDriverProvider -- Starting Chrome driver instance with capabilities:
+1843 [Test worker] INFO  n.s.c.w.d.ChromeDriverProvider -- Capabilities {acceptInsecureCerts: false, browserName: chrome, goog:chromeOptions: {args: [remote-allow-origins=*], extensions: []}}
+6319 [Test worker] INFO  com.outlook.utils.LoggerConsola -- OTP generado: 922780. Tiempo restante: 5 segundos
+13217 [Test worker] INFO   -- [92m
+  _____   ___   ___   _____     ___     _     ___   ___   ___   ___  
+ |_   _| | __| / __| |_   _|   | _ \   /_\   / __| / __| | __| |   \ 
+   | |   | _|  \__ \   | |     |  _/  / _ \  \__ \ \__ \ | _|  | |) |
+   |_|   |___| |___/   |_|     |_|   /_/ \_\ |___/ |___/ |___| |___/ 
+
+User can successfully log in to Outlook
+----------------------------------------------------------------------[0m
+1629 [Test worker] INFO   -- [96m
+
+-------------------------------------------------------------------------------------
+     _______. _______ .______       _______ .__   __.  __  .___________.____    ____ 
+    /       ||   ____||   _  \     |   ____||  \ |  | |  | |           |\   \  /   / 
+   |   (----`|  |__   |  |_)  |    |  |__   |   \|  | |  | `---|  |----` \   \/   /  
+    \   \    |   __|  |      /     |   __|  |  . `  | |  |     |  |       \_    _/   
+.----)   |   |  |____ |  |\  \----.|  |____ |  |\   | |  |     |  |         |  |     
+|_______/    |_______|| _| `._____||_______||__| \__| |__|     |__|         |__|    
+                                                                                     
+ News and tutorials at https://serenity-bdd.info                                     
+ Documentation at https://serenity-bdd.github.io                                     
+ Test Automation Training and Coaching: https://www.serenity-dojo.com                
+ Commercial Support: https://www.serenity-dojo.com/serenity-bdd-enterprise-support   
+ Join the Serenity Community on Gitter: https://gitter.im/serenity-bdd/serenity-core 
+-------------------------------------------------------------------------------------
+[0m
+1638 [Test worker] INFO   -- Test Suite Started: Outlook Login
+1720 [Test worker] INFO   -- Test Suite Started: Outlook Login
+1801 [Test worker] INFO   -- 
+  _____   ___   ___   _____     ___   _____     _     ___   _____   ___   ___  
+ |_   _| | __| / __| |_   _|   / __| |_   _|   /_\   | _ \ |_   _| | __| |   \ 
+   | |   | _|  \__ \   | |     \__ \   | |    / _ \  |   /   | |   | _|  | |) |
+   |_|   |___| |___/   |_|     |___/   |_|   /_/ \_\ |_|_\   |_|   |___| |___/ 
+
+User can successfully log in to Outlook(outlook-login;user-can-successfully-log-in-to-outlook)
+--------------------------------------------------------------------------------
+2127 [Test worker] INFO  n.s.c.w.d.ChromeDriverProvider -- Starting Chrome driver instance with capabilities:
+2129 [Test worker] INFO  n.s.c.w.d.ChromeDriverProvider -- Capabilities {acceptInsecureCerts: false, browserName: chrome, goog:chromeOptions: {args: [remote-allow-origins=*], extensions: []}}
+7384 [Test worker] INFO  com.outlook.utils.LoggerConsola -- OTP generado: 742109. Tiempo restante: 30 segundos
+1534 [Test worker] INFO   -- [96m
+
+-------------------------------------------------------------------------------------
+     _______. _______ .______       _______ .__   __.  __  .___________.____    ____ 
+    /       ||   ____||   _  \     |   ____||  \ |  | |  | |           |\   \  /   / 
+   |   (----`|  |__   |  |_)  |    |  |__   |   \|  | |  | `---|  |----` \   \/   /  
+    \   \    |   __|  |      /     |   __|  |  . `  | |  |     |  |       \_    _/   
+.----)   |   |  |____ |  |\  \----.|  |____ |  |\   | |  |     |  |         |  |     
+|_______/    |_______|| _| `._____||_______||__| \__| |__|     |__|         |__|    
+                                                                                     
+ News and tutorials at https://serenity-bdd.info                                     
+ Documentation at https://serenity-bdd.github.io                                     
+ Test Automation Training and Coaching: https://www.serenity-dojo.com                
+ Commercial Support: https://www.serenity-dojo.com/serenity-bdd-enterprise-support   
+ Join the Serenity Community on Gitter: https://gitter.im/serenity-bdd/serenity-core 
+-------------------------------------------------------------------------------------
+[0m
+1544 [Test worker] INFO   -- Test Suite Started: Outlook Login
+1642 [Test worker] INFO   -- Test Suite Started: Outlook Login
+1757 [Test worker] INFO   -- 
+  _____   ___   ___   _____     ___   _____     _     ___   _____   ___   ___  
+ |_   _| | __| / __| |_   _|   / __| |_   _|   /_\   | _ \ |_   _| | __| |   \ 
+   | |   | _|  \__ \   | |     \__ \   | |    / _ \  |   /   | |   | _|  | |) |
+   |_|   |___| |___/   |_|     |___/   |_|   /_/ \_\ |_|_\   |_|   |___| |___/ 
+
+User can successfully log in to Outlook(outlook-login;user-can-successfully-log-in-to-outlook)
+--------------------------------------------------------------------------------
+2175 [Test worker] INFO  n.s.c.w.d.ChromeDriverProvider -- Starting Chrome driver instance with capabilities:
+2176 [Test worker] INFO  n.s.c.w.d.ChromeDriverProvider -- Capabilities {acceptInsecureCerts: false, browserName: chrome, goog:chromeOptions: {args: [remote-allow-origins=*], extensions: []}}
+7009 [Test worker] INFO  com.outlook.utils.LoggerConsola -- OTP generado: 195989. Tiempo restante: 19 segundos
+15827 [Test worker] INFO   -- [92m
+  _____   ___   ___   _____     ___     _     ___   ___   ___   ___  
+ |_   _| | __| / __| |_   _|   | _ \   /_\   / __| / __| | __| |   \ 
+   | |   | _|  \__ \   | |     |  _/  / _ \  \__ \ \__ \ | _|  | |) |
+   |_|   |___| |___/   |_|     |_|   /_/ \_\ |___/ |___/ |___| |___/ 
+
+User can successfully log in to Outlook
+----------------------------------------------------------------------[0m
