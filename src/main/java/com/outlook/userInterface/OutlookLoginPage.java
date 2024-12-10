@@ -16,4 +16,8 @@ public class OutlookLoginPage {
             .locatedBy("//input[@name='otc']");
     public static final Target ACCEPT_BUTTON = Target.the("accept button to remember device")
             .located(By.id("acceptButton"));
+    public static final Target LBL_MENSAJE_SURA_CODIGO = Target.the("lbl sura mail")
+            .locatedBy("//span[contains(text(),'Afore SURA')]");
+    public static final Target LBL_CODIGO_DFA = Target.the("código de verificación de SURA")
+            .locatedBy("(//p/strong)[3]");
 }

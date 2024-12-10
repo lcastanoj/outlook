@@ -1,11 +1,12 @@
 package com.outlook.tasks;
 
+import com.outlook.utils.LoggerConsola;
 import net.serenitybdd.screenplay.Actor;
 import net.serenitybdd.screenplay.Task;
 import net.serenitybdd.screenplay.actions.Click;
 import net.serenitybdd.screenplay.actions.Enter;
+import net.serenitybdd.screenplay.questions.Text;
 import net.serenitybdd.screenplay.waits.WaitUntil;
-import org.openqa.selenium.Keys;
 
 import static com.outlook.userInterface.OutlookLoginPage.*;
 import static net.serenitybdd.screenplay.Tasks.instrumented;
@@ -41,6 +42,14 @@ public class LoginTask implements Task {
         actor.attemptsTo(
                 Click.on(ACCEPT_BUTTON)
         );
+
+        actor.attemptsTo(
+                Click.on(LBL_MENSAJE_SURA_CODIGO),
+                WaitUntil.the(LBL_CODIGO_DFA, isPresent()).forNoMoreThan(60).seconds()
+        );
+
+        String codigoDFA = Text.of(LBL_CODIGO_DFA).answeredBy(actor).toString();
+        LoggerConsola.imprimirInformacionLogger("Código DFA obtenido: " + codigoDFA);
     }
 
     public static LoginTask withCredentials(String email, String password) {
